@@ -1,0 +1,4 @@
+phone_number = raw_input()
+
+
+print phone_number.replace(' ', '')

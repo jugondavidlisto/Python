@@ -1,0 +1,6 @@
+#!/usr/bin/env python 
+quadrat = 3
+perimetre = 4 * quadrat
+area = quadrat ** 2
+print(perimetre)
+print(area)

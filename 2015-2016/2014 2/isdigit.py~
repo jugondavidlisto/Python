@@ -1,0 +1,2 @@
+str = "2469";  # Only digit in this string
+print str.isdigit()

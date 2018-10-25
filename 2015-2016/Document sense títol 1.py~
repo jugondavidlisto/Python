@@ -1,0 +1,8 @@
+sentence = raw_input()
+
+
+sentence.replace(' ', '')
+
+suma = sentance+1
+print suma
+

@@ -1,0 +1,11 @@
+#!/usr/bin/env python 
+from math import pi
+base = 4
+altura = 6
+
+perimetre = 
+
+area =
+
+print(perimetre)
+print(area)
